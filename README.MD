@@ -1,8 +1,7 @@
 <!-- Create a file README.MD in L04Boats folder and paste following content in it -->
 # L04 Boats app
 
-A brief description of the mobile application and its purpose.  
-(Example: This app allows users to manage tasks and sync data with a backend web service.)
+A React Native mobile catalog application built with Expo for GetABoat, an authorized powerboat dealer.
 
 # ScreenShots of App
 Top page screenshot: <br>
