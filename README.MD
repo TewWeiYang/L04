@@ -1,5 +1,5 @@
 <!-- Create a file README.MD in L04Boats folder and paste following content in it -->
-# L04 Boats app
+# L04 Boats app!
 
 A React Native mobile catalog application built with Expo for GetABoat, an authorized powerboat dealer.
 
